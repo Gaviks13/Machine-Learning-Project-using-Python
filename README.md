@@ -19,5 +19,5 @@ The datasets used in this project are publicly available on Kaggle. Links to eac
 
 ## Contents
 - **`ST3189_Report_220640060.pdf`**: The 10-page report in PDF format, containing the analysis, findings, and interpretations for all three tasks. No code is included in this file.
-- **`ST3189_Code_220640060.[extension]`**
+- **`ST3189_Code_220640060`**
 - **`README.md`**: This file.
