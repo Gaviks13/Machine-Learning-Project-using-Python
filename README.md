@@ -18,6 +18,6 @@ The datasets used in this project are publicly available on Kaggle. Links to eac
 - **Financial Sentiment Dataset**: [Financial Sentiment Analysis](https://www.kaggle.com/datasets/sbhatti/financial-sentiment-analysis)
 
 ## Contents
-- **`ST3189_Report_220640060.pdf`**: The 10-page report in PDF format, containing the analysis, findings, and interpretations for all three tasks. No code is included in this file.
-- **`ST3189_Code_220640060`**
+- **`220640060 (ML).pdf `**: The 10-page report in PDF format, containing the analysis, findings, and interpretations for all three tasks. No code is included in this file.
+- **`220640060.ipynb`**: The code (Jupyter Notebook)
 - **`README.md`**: This file.
